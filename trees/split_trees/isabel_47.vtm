@@ -1,0 +1,7 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="Skeleton Nodes" file="isabel_47/isabel_47_0_0.vtu"/>
+    <DataSet index="1" name="Skeleton Arcs" file="isabel_47/isabel_47_1_0.vtu"/>
+    <DataSet index="2" name="Segmentation" file="isabel_47/isabel_47_2_0.vti"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>

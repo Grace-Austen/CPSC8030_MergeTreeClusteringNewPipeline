@@ -1,0 +1,60 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <Block index="0" name="TTKMergeTreeClustering1">
+      <Block index="0">
+        <DataSet index="0" file="new_clustering/new_clustering_0_0.vtu"/>
+        <DataSet index="1" file="new_clustering/new_clustering_1_0.vtu"/>
+        <DataSet index="2" file="new_clustering/new_clustering_2_0.vtu"/>
+        <DataSet index="3" file="new_clustering/new_clustering_3_0.vtu"/>
+        <DataSet index="4" file="new_clustering/new_clustering_4_0.vtu"/>
+        <DataSet index="5" file="new_clustering/new_clustering_5_0.vtu"/>
+        <DataSet index="6" file="new_clustering/new_clustering_6_0.vtu"/>
+        <DataSet index="7" file="new_clustering/new_clustering_7_0.vtu"/>
+        <DataSet index="8" file="new_clustering/new_clustering_8_0.vtu"/>
+        <DataSet index="9" file="new_clustering/new_clustering_9_0.vtu"/>
+        <DataSet index="10" file="new_clustering/new_clustering_10_0.vtu"/>
+        <DataSet index="11" file="new_clustering/new_clustering_11_0.vtu"/>
+      </Block>
+      <Block index="1">
+        <DataSet index="0" file="new_clustering/new_clustering_12_0.vtu"/>
+        <DataSet index="1" file="new_clustering/new_clustering_13_0.vtu"/>
+        <DataSet index="2" file="new_clustering/new_clustering_14_0.vtu"/>
+        <DataSet index="3" file="new_clustering/new_clustering_15_0.vtu"/>
+        <DataSet index="4" file="new_clustering/new_clustering_16_0.vtu"/>
+        <DataSet index="5" file="new_clustering/new_clustering_17_0.vtu"/>
+        <DataSet index="6" file="new_clustering/new_clustering_18_0.vtu"/>
+        <DataSet index="7" file="new_clustering/new_clustering_19_0.vtu"/>
+        <DataSet index="8" file="new_clustering/new_clustering_20_0.vtu"/>
+        <DataSet index="9" file="new_clustering/new_clustering_21_0.vtu"/>
+        <DataSet index="10" file="new_clustering/new_clustering_22_0.vtu"/>
+        <DataSet index="11" file="new_clustering/new_clustering_23_0.vtu"/>
+      </Block>
+    </Block>
+    <Block index="1" name="TTKMergeTreeClustering1">
+      <Block index="0">
+        <DataSet index="0" file="new_clustering/new_clustering_24_0.vtu"/>
+        <DataSet index="1" file="new_clustering/new_clustering_25_0.vtu"/>
+        <DataSet index="2" file="new_clustering/new_clustering_26_0.vtu"/>
+      </Block>
+      <Block index="1">
+        <DataSet index="0" file="new_clustering/new_clustering_27_0.vtu"/>
+        <DataSet index="1" file="new_clustering/new_clustering_28_0.vtu"/>
+        <DataSet index="2" file="new_clustering/new_clustering_29_0.vtu"/>
+      </Block>
+    </Block>
+    <Block index="2" name="TTKMergeTreeClustering1">
+      <DataSet index="0" file="new_clustering/new_clustering_30_0.vtu"/>
+      <DataSet index="1" file="new_clustering/new_clustering_31_0.vtu"/>
+      <DataSet index="2" file="new_clustering/new_clustering_32_0.vtu"/>
+      <DataSet index="3" file="new_clustering/new_clustering_33_0.vtu"/>
+      <DataSet index="4" file="new_clustering/new_clustering_34_0.vtu"/>
+      <DataSet index="5" file="new_clustering/new_clustering_35_0.vtu"/>
+      <DataSet index="6" file="new_clustering/new_clustering_36_0.vtu"/>
+      <DataSet index="7" file="new_clustering/new_clustering_37_0.vtu"/>
+      <DataSet index="8" file="new_clustering/new_clustering_38_0.vtu"/>
+      <DataSet index="9" file="new_clustering/new_clustering_39_0.vtu"/>
+      <DataSet index="10" file="new_clustering/new_clustering_40_0.vtu"/>
+      <DataSet index="11" file="new_clustering/new_clustering_41_0.vtu"/>
+    </Block>
+  </vtkMultiBlockDataSet>
+</VTKFile>

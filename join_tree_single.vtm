@@ -1,0 +1,46 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <Block index="0" name="Skeleton Nodes">
+      <DataSet index="0" name="XMLUnstructuredGridReader1" file="join_tree_single/join_tree_single_0_0.vtu"/>
+      <DataSet index="1" name="XMLUnstructuredGridReader5" file="join_tree_single/join_tree_single_1_0.vtu"/>
+      <DataSet index="2" name="XMLUnstructuredGridReader9" file="join_tree_single/join_tree_single_2_0.vtu"/>
+      <DataSet index="3" name="XMLUnstructuredGridReader13" file="join_tree_single/join_tree_single_3_0.vtu"/>
+      <DataSet index="4" name="XMLUnstructuredGridReader17" file="join_tree_single/join_tree_single_4_0.vtu"/>
+      <DataSet index="5" name="XMLUnstructuredGridReader21" file="join_tree_single/join_tree_single_5_0.vtu"/>
+      <DataSet index="6" name="XMLUnstructuredGridReader25" file="join_tree_single/join_tree_single_6_0.vtu"/>
+      <DataSet index="7" name="XMLUnstructuredGridReader29" file="join_tree_single/join_tree_single_7_0.vtu"/>
+      <DataSet index="8" name="XMLUnstructuredGridReader33" file="join_tree_single/join_tree_single_8_0.vtu"/>
+      <DataSet index="9" name="XMLUnstructuredGridReader37" file="join_tree_single/join_tree_single_9_0.vtu"/>
+      <DataSet index="10" name="XMLUnstructuredGridReader41" file="join_tree_single/join_tree_single_10_0.vtu"/>
+      <DataSet index="11" name="XMLUnstructuredGridReader45" file="join_tree_single/join_tree_single_11_0.vtu"/>
+    </Block>
+    <Block index="1" name="Skeleton Arcs">
+      <DataSet index="0" name="XMLUnstructuredGridReader3" file="join_tree_single/join_tree_single_12_0.vtu"/>
+      <DataSet index="1" name="XMLUnstructuredGridReader7" file="join_tree_single/join_tree_single_13_0.vtu"/>
+      <DataSet index="2" name="XMLUnstructuredGridReader11" file="join_tree_single/join_tree_single_14_0.vtu"/>
+      <DataSet index="3" name="XMLUnstructuredGridReader15" file="join_tree_single/join_tree_single_15_0.vtu"/>
+      <DataSet index="4" name="XMLUnstructuredGridReader19" file="join_tree_single/join_tree_single_16_0.vtu"/>
+      <DataSet index="5" name="XMLUnstructuredGridReader23" file="join_tree_single/join_tree_single_17_0.vtu"/>
+      <DataSet index="6" name="XMLUnstructuredGridReader27" file="join_tree_single/join_tree_single_18_0.vtu"/>
+      <DataSet index="7" name="XMLUnstructuredGridReader31" file="join_tree_single/join_tree_single_19_0.vtu"/>
+      <DataSet index="8" name="XMLUnstructuredGridReader35" file="join_tree_single/join_tree_single_20_0.vtu"/>
+      <DataSet index="9" name="XMLUnstructuredGridReader39" file="join_tree_single/join_tree_single_21_0.vtu"/>
+      <DataSet index="10" name="XMLUnstructuredGridReader43" file="join_tree_single/join_tree_single_22_0.vtu"/>
+      <DataSet index="11" name="XMLUnstructuredGridReader47" file="join_tree_single/join_tree_single_23_0.vtu"/>
+    </Block>
+    <Block index="2" name="Segmentation">
+      <DataSet index="0" name="XMLImageDataReader25" file="join_tree_single/join_tree_single_24_0.vti"/>
+      <DataSet index="1" name="XMLImageDataReader27" file="join_tree_single/join_tree_single_25_0.vti"/>
+      <DataSet index="2" name="XMLImageDataReader29" file="join_tree_single/join_tree_single_26_0.vti"/>
+      <DataSet index="3" name="XMLImageDataReader31" file="join_tree_single/join_tree_single_27_0.vti"/>
+      <DataSet index="4" name="XMLImageDataReader33" file="join_tree_single/join_tree_single_28_0.vti"/>
+      <DataSet index="5" name="XMLImageDataReader35" file="join_tree_single/join_tree_single_29_0.vti"/>
+      <DataSet index="6" name="XMLImageDataReader37" file="join_tree_single/join_tree_single_30_0.vti"/>
+      <DataSet index="7" name="XMLImageDataReader39" file="join_tree_single/join_tree_single_31_0.vti"/>
+      <DataSet index="8" name="XMLImageDataReader41" file="join_tree_single/join_tree_single_32_0.vti"/>
+      <DataSet index="9" name="XMLImageDataReader43" file="join_tree_single/join_tree_single_33_0.vti"/>
+      <DataSet index="10" name="XMLImageDataReader45" file="join_tree_single/join_tree_single_34_0.vti"/>
+      <DataSet index="11" name="XMLImageDataReader47" file="join_tree_single/join_tree_single_35_0.vti"/>
+    </Block>
+  </vtkMultiBlockDataSet>
+</VTKFile>
