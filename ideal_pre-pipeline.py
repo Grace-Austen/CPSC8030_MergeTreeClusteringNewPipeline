@@ -2,9 +2,9 @@
 
 from paraview.simple import *
 
-loadpath = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/Isabel.cdb/data/"
+loadpath = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/CPSC8030_MergeTreeClusteringNewPipeline/Isabel.cdb/data/"
 
-savepath = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/trees/"
+savepath = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/CPSC8030_MergeTreeClusteringNewPipeline/trees/"
 
 vti_files = [
     "isabel_02.vti",
@@ -41,7 +41,7 @@ for fileName in vti_files:
         ],
         BlockNames = ["Skeleton Nodes", "Skeleton Arcs", "Segmentation"]
     )
-    SaveData(savepath+"join_trees/"+save_name, jt_group)
+    SaveData(savepath+"join_trees/"+save_name, jt_group, DataMode='Ascii')
 
     # create and save split tree
     split_tree = TTKMergeandContourTreeFTM(Input=reader)
@@ -55,4 +55,4 @@ for fileName in vti_files:
         ],
         BlockNames = ["Skeleton Nodes", "Skeleton Arcs", "Segmentation"]
     )
-    SaveData(savepath+"split_trees/"+save_name, st_group)
+    SaveData(savepath+"split_trees/"+save_name, st_group, DataMode='Ascii')
