@@ -2,7 +2,7 @@
 
 from paraview.simple import *
 
-basepath = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/"
+basepath = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/CPSC8030_MergeTreeClusteringNewPipeline/"
 
 # create a new 'TTK CinemaReader'
 tTKCinemaReader1 = TTKCinemaReader(DatabasePath=basepath+"Isabel.cdb")

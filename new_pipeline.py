@@ -76,7 +76,7 @@ def preprocess(jt_files, st_files):
 # "Main"
 
 print("Started")
-basepath = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/"
+basepath = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/CPSC8030_MergeTreeClusteringNewPipeline/"
 
 load_join_trees = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/CPSC8030_MergeTreeClusteringNewPipeline/trees/join_trees/"
 load_split_trees = "C:/Users/Grace/Documents/Clemson/Spring 2024/CPSC 8030 Scientific Visualization/presentation/CPSC8030_MergeTreeClusteringNewPipeline/trees/split_trees/"

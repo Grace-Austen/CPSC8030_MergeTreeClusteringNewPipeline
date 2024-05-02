@@ -41,7 +41,7 @@ for fileName in vti_files:
         ],
         BlockNames = ["Skeleton Nodes", "Skeleton Arcs", "Segmentation"]
     )
-    SaveData(savepath+"join_trees/"+save_name, jt_group, DataMode='Ascii')
+    SaveData(savepath+"join_trees/"+save_name, jt_group)
 
     # create and save split tree
     split_tree = TTKMergeandContourTreeFTM(Input=reader)
@@ -55,4 +55,4 @@ for fileName in vti_files:
         ],
         BlockNames = ["Skeleton Nodes", "Skeleton Arcs", "Segmentation"]
     )
-    SaveData(savepath+"split_trees/"+save_name, st_group, DataMode='Ascii')
+    SaveData(savepath+"split_trees/"+save_name, st_group)
